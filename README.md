@@ -1,1 +1,1 @@
-# ESX Ranking System // EGZOTIC
+# ESX Ranking System
